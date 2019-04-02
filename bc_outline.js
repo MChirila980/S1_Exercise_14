@@ -5,8 +5,8 @@
    Tutorial 12
    Tutorial Case
 
-   Author: 
-   Date:   
+   Author: Melinda Chirila
+   Date:   3/28/2019
 
    Filename: bc_outline.js
 
